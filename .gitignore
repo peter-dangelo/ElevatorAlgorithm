@@ -1,0 +1,12 @@
+bin
+obj
+project.lock.json
+.vs
+.xproj.user
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+restore.dg

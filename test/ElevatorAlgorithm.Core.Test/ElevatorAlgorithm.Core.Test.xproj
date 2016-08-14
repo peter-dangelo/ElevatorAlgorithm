@@ -6,7 +6,7 @@
   </PropertyGroup>
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>3d73e694-6679-4d9f-958b-fb1276c059ce</ProjectGuid>
+    <ProjectGuid>a447e54b-ebe3-40ad-b07f-c7bbb938fe87</ProjectGuid>
     <RootNamespace>ElevatorAlgorithm.Core.Test</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
